@@ -1,0 +1,18 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "A colored clock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "cakehole",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
