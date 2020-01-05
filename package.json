@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-dc-web-102819",
+  "version": "1.0.0",
+  "description": "learning horto create package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdromero88/npm-lab-dc-web-102819.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdromero88/npm-lab-dc-web-102819/issues"
+  },
+  "homepage": "https://github.com/jdromero88/npm-lab-dc-web-102819#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
